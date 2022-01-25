@@ -11,6 +11,6 @@ I'm Brian Icaro, known in some places as Amondir, and I'm a Javascript Developer
 
 
 - ⚡ Fun facts: 
-  - I'm played WoW for a long time, and almost every season that I play, I parse into top100 worldwide.
+  - I played WoW for a long time, and almost every season that I play, I parse into top100 worldwide.
   - I discovered in 2021 that I have ADHD, and for not being medicated, I had to develop a list of habits and rules to make myself productive.
 - 🐱 Cat Name: Mephisto

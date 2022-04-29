@@ -16,4 +16,4 @@ I'm Brian Icaro, known in some places as Amondir, and I'm a Javascript Developer
 
 - 🐱 Cat Name: Mephisto
 
-<a href="https://app.daily.dev/UsefulHunter"><img src="https://api.daily.dev/devcards/4a1b759d353f4189993cc10997592eee.png?r=ya8" width="400" alt="Brian Icaro D. Marques's Dev Card"/></a>
+<a href="https://app.daily.dev/UsefulHunter"><img src="https://github.com/UsefulHunter/UsefulHunter/blob/main/devcard.svg" width="400" alt="Brian Icaro D. Marques's Dev Card"/></a>

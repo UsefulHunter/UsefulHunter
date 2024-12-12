@@ -2,7 +2,7 @@
 
 I'm Brian Icaro, known in some places as Amondir, a Frontend Engineer from Espírito Santo, Brazil, that reached the World, and moved to Lisbon - Portugal, in April/22
 
-- 🔭 I’m currently working at Yooga
+- 🔭 I’m currently working at Zallpy Digital
 - 🌱 I’m currently learning JS in deep, and achieving proficiency in:
   -  Automatized tests with Jest and RTL;
   - [The Hard parts of Javascript](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
